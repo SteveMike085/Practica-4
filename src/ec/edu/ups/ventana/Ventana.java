@@ -2,7 +2,7 @@ package ec.edu.ups.ventana;
 import java.awt.Frame;
 /**
  *
- * @author Usuario
+ * @author SteveMike
  */
 public class Ventana extends Frame {
     
